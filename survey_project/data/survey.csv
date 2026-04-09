@@ -1,0 +1,11 @@
+CustomerID,Age,Gender,ServiceQuality,Price,Support,Satisfaction
+1,22,Female,4,3,4,4
+2,25,Male,3,4,3,3
+3,30,Female,5,2,5,5
+4,28,Male,2,3,2,2
+5,35,Female,4,4,4,4
+6,40,Male,3,3,3,3
+7,29,Female,5,2,5,5
+8,33,Male,2,4,2,2
+9,27,Female,4,3,4,4
+10,31,Male,3,3,3,3
